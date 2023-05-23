@@ -76,3 +76,11 @@ body {
   padding: 20px;
   cursor: pointer;
 }
+
+.navbar {
+  background-image: linear-gradient(rgb(219, 240, 53), rgb(87, 228, 190));
+}
+
+body {
+  background-image: linear-gradient(rgb(87, 228, 190), rgb(219, 240, 53));
+}
